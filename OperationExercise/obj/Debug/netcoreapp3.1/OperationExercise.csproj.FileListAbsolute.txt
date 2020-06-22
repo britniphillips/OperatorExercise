@@ -1,0 +1,13 @@
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\bin\Debug\netcoreapp3.1\OperationExercise.exe
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\bin\Debug\netcoreapp3.1\OperationExercise.deps.json
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\bin\Debug\netcoreapp3.1\OperationExercise.runtimeconfig.json
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\bin\Debug\netcoreapp3.1\OperationExercise.runtimeconfig.dev.json
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\bin\Debug\netcoreapp3.1\OperationExercise.dll
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\bin\Debug\netcoreapp3.1\OperationExercise.pdb
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\obj\Debug\netcoreapp3.1\OperationExercise.csprojAssemblyReference.cache
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\obj\Debug\netcoreapp3.1\OperationExercise.AssemblyInfoInputs.cache
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\obj\Debug\netcoreapp3.1\OperationExercise.AssemblyInfo.cs
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\obj\Debug\netcoreapp3.1\OperationExercise.csproj.CoreCompileInputs.cache
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\obj\Debug\netcoreapp3.1\OperationExercise.dll
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\obj\Debug\netcoreapp3.1\OperationExercise.pdb
+C:\Users\britn\source\repos\OperationExercise\OperationExercise\obj\Debug\netcoreapp3.1\OperationExercise.genruntimeconfig.cache
